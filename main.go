@@ -1,9 +1,14 @@
 package main
 
-import "fmt"
-import "go-algo/algorithms/sorts"
+import (
+    "fmt"
+    "go-algo/algorithms/sorts"
+)
 
 func main(){
-	x := sorts.BubbleSort([]int{1})
-	fmt.Printf(string(x[0]))
+    numbers := NumberArray([]int{1, 3, 7, 5, 99, 0, 4})
+
+    sorts.BubbleSort(numbers)
+
+    fmt.Println(ToString(numbers))
 }
