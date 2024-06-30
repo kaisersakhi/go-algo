@@ -1,11 +1,9 @@
-package main
+package shared
 
 import (
     "strconv"
     "strings"
 )
-
-import "go-algo/shared"
 
 type Number struct {
     Value int
@@ -13,11 +11,11 @@ type Number struct {
 
 func (p Number) Compare(q Number) int {
     if p.Value > q.Value {
-        return shared.GreaterThan
+        return GreaterThan
     } else if p.Value < q.Value {
-        return shared.LessThan
+        return LessThan
     }
-    return shared.EqualTo
+    return EqualTo
 }
 
 func NumberArray(ints []int) []Number{
