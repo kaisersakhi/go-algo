@@ -1,6 +1,7 @@
 ### Sorting Algorithms
-- [ ] Bubble Sort
-- [ ] Selection Sort
+
+- [x] Bubble Sort
+- [x] Selection Sort
 - [ ] Insertion Sort
 - [ ] Merge Sort
 - [ ] Quick Sort
@@ -11,13 +12,15 @@
 - [ ] Shell Sort
 
 ### Searching Algorithms
-- [ ] Linear Search
+
+- [x] Linear Search
 - [ ] Binary Search
 - [ ] Jump Search
 - [ ] Interpolation Search
 - [ ] Exponential Search
 
 ### Graph Algorithms
+
 - [ ] Breadth-First Search (BFS)
 - [ ] Depth-First Search (DFS)
 - [ ] Dijkstra's Algorithm
@@ -26,10 +29,11 @@
 - [ ] Prim's Algorithm
 - [ ] Kruskal's Algorithm
 - [ ] Topological Sort
-- [ ] A* Search Algorithm
+- [ ] A\* Search Algorithm
 - [ ] Johnson's Algorithm
 
 ### Dynamic Programming Algorithms
+
 - [ ] Fibonacci Sequence
 - [ ] Knapsack Problem (0/1 Knapsack)
 - [ ] Longest Common Subsequence (LCS)
@@ -42,6 +46,7 @@
 - [ ] Travelling Salesman Problem (TSP)
 
 ### Greedy Algorithms
+
 - [ ] Fractional Knapsack Problem
 - [ ] Activity Selection Problem
 - [ ] Huffman Coding
@@ -50,6 +55,7 @@
 - [ ] Dijkstra’s Algorithm
 
 ### Divide and Conquer Algorithms
+
 - [ ] Merge Sort
 - [ ] Quick Sort
 - [ ] Binary Search
@@ -57,6 +63,7 @@
 - [ ] Closest Pair of Points
 
 ### Backtracking Algorithms
+
 - [ ] N-Queens Problem
 - [ ] Sudoku Solver
 - [ ] Hamiltonian Cycle
@@ -65,6 +72,7 @@
 - [ ] Crossword Puzzle Solver
 
 ### String Algorithms
+
 - [ ] Naive Pattern Searching
 - [ ] Knuth-Morris-Pratt (KMP) Algorithm
 - [ ] Rabin-Karp Algorithm
@@ -74,6 +82,7 @@
 - [ ] Levenshtein Distance (Edit Distance)
 
 ### Mathematical Algorithms
+
 - [ ] Sieve of Eratosthenes
 - [ ] Euclidean Algorithm for GCD
 - [ ] Modular Exponentiation
@@ -84,6 +93,7 @@
 - [ ] Exponentiation by Squaring
 
 ### Geometric Algorithms
+
 - [ ] Convex Hull (Graham Scan, Jarvis March)
 - [ ] Line Intersection
 - [ ] Point in Polygon
@@ -92,6 +102,7 @@
 - [ ] Delaunay Triangulation
 
 ### Number Theory Algorithms
+
 - [ ] Sieve of Eratosthenes
 - [ ] Euclidean Algorithm
 - [ ] Modular Multiplicative Inverse
@@ -100,6 +111,7 @@
 - [ ] Wilson’s Theorem
 
 ### Miscellaneous Algorithms
+
 - [ ] Reservoir Sampling
 - [ ] Randomized Algorithms
 - [ ] Monte Carlo Algorithms
